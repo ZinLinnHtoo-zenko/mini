@@ -1,1 +1,1 @@
-live demo: https://zinlinnhtoo-zenko.github.io/mini/
+live demo: [https://zinlinnhtoo-zenko/mypreview](https://pre-v.netlify.app/)
